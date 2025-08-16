@@ -1,0 +1,57 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="600" height="50" fill="#4A90E2"/>
+  <text x="20" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Business Intelligence AI Chatbot</text>
+  <circle cx="550" cy="25" r="8" fill="#7ED321"/>
+  <text x="565" y="29" font-family="Arial, sans-serif" font-size="10" fill="white">Online</text>
+  
+  <!-- Chat Messages -->
+  <!-- User Message 1 -->
+  <rect x="250" y="70" width="330" height="40" fill="#E8F4FD" stroke="#4A90E2" stroke-width="1" rx="20"/>
+  <text x="270" y="85" font-family="Arial, sans-serif" font-size="12" fill="#333">What was our revenue last quarter?</text>
+  <text x="270" y="100" font-family="Arial, sans-serif" font-size="10" fill="#666">You • 2:34 PM</text>
+  
+  <!-- AI Response 1 -->
+  <rect x="20" y="130" width="400" height="70" fill="#F0F0F0" stroke="#ddd" stroke-width="1" rx="20"/>
+  <circle cx="35" cy="145" r="8" fill="#4A90E2"/>
+  <text x="50" y="148" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4A90E2">AI Assistant</text>
+  <text x="50" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">Q3 revenue was $142,500 (up 23% from Q2)</text>
+  <text x="50" y="180" font-family="Arial, sans-serif" font-size="11" fill="#333">Here's the breakdown by month:</text>
+  <text x="50" y="195" font-family="Arial, sans-serif" font-size="10" fill="#666">📊 Generating chart...</text>
+  
+  <!-- Revenue Chart -->
+  <rect x="440" y="130" width="140" height="70" fill="white" stroke="#e9ecef" stroke-width="1" rx="4"/>
+  <text x="450" y="150" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#333">Q3 Revenue</text>
+  <rect x="450" y="160" width="20" height="30" fill="#4A90E2"/>
+  <text x="455" y="175" font-family="Arial, sans-serif" font-size="8" fill="white">Jul</text>
+  <rect x="480" y="155" width="20" height="35" fill="#4A90E2"/>
+  <text x="485" y="175" font-family="Arial, sans-serif" font-size="8" fill="white">Aug</text>
+  <rect x="510" y="150" width="20" height="40" fill="#4A90E2"/>
+  <text x="515" y="175" font-family="Arial, sans-serif" font-size="8" fill="white">Sep</text>
+  
+  <!-- User Message 2 -->
+  <rect x="200" y="220" width="380" height="40" fill="#E8F4FD" stroke="#4A90E2" stroke-width="1" rx="20"/>
+  <text x="220" y="235" font-family="Arial, sans-serif" font-size="12" fill="#333">Which products are underperforming?</text>
+  <text x="220" y="250" font-family="Arial, sans-serif" font-size="10" fill="#666">You • 2:35 PM</text>
+  
+  <!-- AI Response 2 -->
+  <rect x="20" y="280" width="450" height="80" fill="#F0F0F0" stroke="#ddd" stroke-width="1" rx="20"/>
+  <circle cx="35" cy="295" r="8" fill="#4A90E2"/>
+  <text x="50" y="298" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#4A90E2">AI Assistant</text>
+  <text x="50" y="315" font-family="Arial, sans-serif" font-size="12" fill="#333">3 products below target:</text>
+  <text x="50" y="330" font-family="Arial, sans-serif" font-size="11" fill="#d62728">• Widget A (-15% vs target)</text>
+  <text x="50" y="345" font-family="Arial, sans-serif" font-size="11" fill="#d62728">• Service B (-8% vs target)</text>
+  <text x="50" y="355" font-family="Arial, sans-serif" font-size="10" fill="#666">💡 Recommend reviewing pricing strategy</text>
+  
+  <!-- Input Area -->
+  <rect x="20" y="370" width="500" height="25" fill="white" stroke="#ddd" stroke-width="1" rx="12"/>
+  <text x="30" y="385" font-family="Arial, sans-serif" font-size="12" fill="#999">Ask about your business data...</text>
+  <rect x="530" y="372" width="50" height="21" fill="#4A90E2" rx="10"/>
+  <text x="545" y="385" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white">Send</text>
+  
+  <!-- Watermark -->
+  <text x="450" y="395" font-family="Arial, sans-serif" font-size="8" fill="#adb5bd">Business Intelligence Chatbot Preview</text>
+</svg>
