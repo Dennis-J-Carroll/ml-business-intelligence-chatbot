@@ -1,10 +1,14 @@
 # 🤖 Business Intelligence AI Chatbot
 ## *Slash Analytics Costs by 80% with Intelligent Business Insights*
 
+![Business Intelligence Chatbot](assets/images/hero-chatbot.svg)
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bi-chatbot.streamlit.app)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://python.org)
 [![NLP](https://img.shields.io/badge/NLP-Transformers-green.svg)](https://huggingface.co/transformers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> **🟢 **LIVE DEMO**: [https://bi-chatbot-portfolio.streamlit.app](https://bi-chatbot-portfolio.streamlit.app) | **⚡ Available 24/7** | **🎯 Professional showcase**: [https://bi-chatbot-portfolio.streamlit.app](https://bi-chatbot-portfolio.streamlit.app) | **💬 Conversational analytics** | **🎯 94% accuracy rate**
 
 ---
 
