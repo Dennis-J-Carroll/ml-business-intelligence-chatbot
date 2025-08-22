@@ -1,4 +1,4 @@
-# 🤖 Business Intelligence AI Chatbot
+# Business Intelligence AI Chatbot
 ## *Slash Analytics Costs by 80% with Intelligent Business Insights*
 
 ![Business Intelligence Chatbot](assets/images/hero-chatbot.svg)
@@ -8,15 +8,15 @@
 [![NLP](https://img.shields.io/badge/NLP-Transformers-green.svg)](https://huggingface.co/transformers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **🟢 **LIVE DEMO**: [https://ml-business-intelligence-chatbot.streamlit.app](https://ml-business-intelligence-chatbot.streamlit.app/) | **⚡ Available 24/7** | **🎯 Professional showcase**: [https://bi-chatbot-portfolio.streamlit.app](https://bi-chatbot-portfolio.streamlit.app) | **💬 Conversational analytics** | **🎯 94% accuracy rate**
+> **🟢 **LIVE DEMO**: [https://ml-business-intelligence-chatbot.streamlit.app](https://ml-business-intelligence-chatbot.streamlit.app/) | **Available 24/7** | **Conversational analytics** | **94% accuracy rate**
 
 ---
 
 ## 💼 **BUSINESS IMPACT**
 
-**🎯 Problem Solved**: Small-to-medium businesses spend $15K-50K/year on data analysts and still wait weeks for simple business insights, creating decision-making bottlenecks that cost revenue.
+**Problem Solved**: Small-to-medium businesses spend $15K-50K/year on data analysts and still wait weeks for simple business insights, creating decision-making bottlenecks that cost revenue.
 
-**💡 Solution Delivered**: AI-powered conversational analytics that provides instant business intelligence through natural language queries - no SQL knowledge required.
+**Solution Delivered**: AI-powered conversational analytics that provides instant business intelligence through natural language queries - no SQL knowledge required.
 
 **📈 Measurable ROI**:
 - **80% cost reduction** vs. hiring dedicated analysts ($40K/year → $8K/year)
@@ -26,13 +26,13 @@
 
 ---
 
-## 🌐 **LIVE DEMO & VIDEO**
+## **LIVE DEMO & VIDEO**
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 **Try It Live**
+### **Try It Live**
 **[→ Launch Demo Application](https://bi-chatbot.streamlit.app)**  
 *Ask questions like: "What was our best-selling product last month?"*
 
@@ -52,7 +52,7 @@
 
 ---
 
-## ✨ **KEY FEATURES & BUSINESS VALUE**
+## **KEY FEATURES & BUSINESS VALUE**
 
 | Feature | Business Benefit | Technical Implementation |
 |---------|------------------|-------------------------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 🏆 **PERFECT FOR**
+## **PERFECT FOR**
 
 - **🏪 Small-Medium Businesses**: Affordable alternative to expensive BI tools
 - **💼 Executives & Managers**: Quick decision-making without waiting for analysts
@@ -143,9 +143,9 @@
 
 ---
 
-## ⚡ **QUICK START** (2 Minutes to Insights)
+##  **QUICK START** (2 Minutes to Insights)
 
-### **🚀 Option 1: Instant Demo**
+### **Option 1: Instant Demo**
 ```bash
 # Try with sample business data
 git clone https://github.com/Dennis-J-Carroll/bi-chatbot
@@ -168,7 +168,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 **DEMO SCENARIOS & SAMPLE QUESTIONS**
+## **DEMO SCENARIOS & SAMPLE QUESTIONS**
 
 ### **📈 Sales & Revenue Analysis**
 ```
@@ -348,10 +348,6 @@ streamlit run app.py
 ## 👨‍💻 **ABOUT THE DEVELOPER**
 
 **Dennis J. Carroll** | *AI/ML Engineer & Business Intelligence Specialist*
-
-🎯 **Specialized in**: Conversational AI, business analytics, and intelligent automation  
-📊 **Experience**: 5+ years building AI solutions for data-driven decision making  
-🏆 **Track Record**: Saved clients $500K+ in analytics costs while improving insight quality
 
 **Core Competencies**:
 - Natural Language Processing & Conversational AI
